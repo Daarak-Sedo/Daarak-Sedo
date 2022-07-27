@@ -75,7 +75,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <p align="center">
   <br/>
-  <a href="www.linkedin.com/in/bhuwan-singh-samant-03b816234">
+  <a href="https://www.linkedin.com/in/bhuwan-singh-samant-03b816234/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
@@ -96,7 +96,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   <a href="https://twitter.com/BhuwanSinghSam2">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
-  <a href="https://open.spotify.com/user/316il4djvppzct6x4qyidzhptoci" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://open.spotify.com" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 </h1>
 
