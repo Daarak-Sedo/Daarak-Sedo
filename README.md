@@ -20,7 +20,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development Roles. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bhuwan-singh-samant-03b816234/) [Gmail](mailto:bhuwansinghsamant706@gmail.com)
 
-**<a href="http://coderaky.com" target="_blank">`coderaky.com`</a>**
+
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaky" alt="coderaky" /> </p>
 
