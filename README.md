@@ -16,16 +16,31 @@
 I'm a computer science student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software.
 
 - 🔭 I’m currently a CS student at Jain University Bangalore.
+- - 🔭 I’m currently working on [reactUI](https://github.com/)
 - 📚 I’m currently learning  FULL Stack web development using Html,CSS,Js,React , NodeJS, ExpressJS and MongoDB.
+- - 👯 I’m looking to collaborate on [Full Stack Developer](https://github.com/)
+- - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
+- - 💬 Ask me about **react, node, mongodb,HtmL,CSS**
 - 👯 I’m looking for a software development Roles. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bhuwan-singh-samant-03b816234/) [Gmail](mailto:bhuwansinghsamant706@gmail.com)
+
+- ⚡ Fun fact **I will die only once**
 
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaky" alt="coderaky" /> </p>
 
-</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/your-work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/your-work" height="30" width="40" /></a>
+<a href="https://twitter.com/ra1711003030521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ra1711003030521" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amit-yadav-a9271a1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-yadav-a9271a1b8/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc7s2jpkdnsjybyn4cpy26nghttps://www.youtube.com/channel/uc7s2jpkdnsjybyn4cpy26ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc7s2jpkdnsjybyn4cpy26nghttps://www.youtube.com/channel/uc7s2jpkdnsjybyn4cpy26ng" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ra1711003030521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra1711003030521" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://assessment.hackerearth.com/challenges/hiring/valuelabs-ml-hiring-2019/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://assessment.hackerearth.com/challenges/hiring/valuelabs-ml-hiring-2019/" height="30" width="40" /></a>
+</p>
 
+</br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
