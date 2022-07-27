@@ -8,9 +8,9 @@
 </em></p>
 
 
-[![Twitter: Bhuwan](https://img.shields.io/twitter/follow/coderaky?style=social)](https://twitter.com/BhuwanSinghSam2)
-[![Linkedin: Bhuwan](https://img.shields.io/badge/-coderaky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderaky/)](https://www.linkedin.com/in/bhuwan-singh-samant-03b816234/)
-[![GitHub Bhuwan](https://img.shields.io/github/followers/coderaky?label=follow&style=social)](https://github.com/daraksedo)
+[![Twitter: Bhuwan](https://img.shields.io/twitter/follow/Bhuwan?style=social)](https://twitter.com/BhuwanSinghSam2)
+[![Linkedin: Bhuwan](https://img.shields.io/badge/-Bhuwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderaky/)](https://www.linkedin.com/in/bhuwan-singh-samant-03b816234/)
+[![GitHub Bhuwan](https://img.shields.io/github/followers/Bhuwan?label=follow&style=social)](https://github.com/daraksedo)
 
 
 I'm a computer science student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software.
