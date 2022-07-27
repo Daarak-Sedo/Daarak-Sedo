@@ -1,32 +1,121 @@
-### Hi there 👋, I'm Bhuwan Samant
-#### CS Student at Jain University Banglore 🎓 | Developer Student Club Lead 
-![CS Student at Jain University Banglore 🎓 | Developer Student Club Lead ](https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png)
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+<h2>नमस्ते (Namaste)🙏🏻, I'm Bhuwan ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>CS Student at <a href="http://www.jainuniversity.ac.in">Jain University Bangalore 🎓 </a> | Developer Student Club Lead <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+
+[![Twitter: Bhuwan](https://img.shields.io/twitter/follow/coderaky?style=social)](https://twitter.com/BhuwanSinghSam2)
+[![Linkedin: Bhuwan](https://img.shields.io/badge/-coderaky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderaky/)](www.linkedin.com/in/bhuwan-singh-samant-03b816234)
+[![GitHub Bhuwan](https://img.shields.io/github/followers/coderaky?label=follow&style=social)](https://github.com/daraksedo)
+
 
 I'm a computer science student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software.
 
-Skills: VUE JS / REACT / JS / HTML / CSS/NODE JS/MONGO DB/PYTHON
+- 🔭 I’m currently a CS student at Jain University Bangalore.
+- 📚 I’m currently learning  FULL Stack web development using Html,CSS,Js,React , NodeJS, ExpressJS and MongoDB.
+- 👯 I’m looking for a software development Roles. 
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/bhuwan-singh-samant-03b816234) [Gmail](mailto:bhuwansinghsamant706@gmail.com)
 
-- 🔭 I’m currently working on reactUI 
-- 🌱 I’m currently learning MERN Stack, Data Structure and algorithms 
-- 👯 I’m looking to collaborate on Full Stack Developer 
-- 🤔 I’m looking for help with https://github.com 
-- 💬 Ask me about react, node, mongodb,HtmL,CSS 
-- 📫 How to reach me: bhuwansinghsamant706@gmail.com 
-- ⚡ Fun fact:  I will die only once 
+**<a href="http://coderaky.com" target="_blank">`coderaky.com`</a>**
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaky" alt="coderaky" /> </p>
+
+</br>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+  ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
+  ![ExpressJS](https://img.shields.io/badge/-Express.js-787878?style=flat)
+  ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
+  ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)
+  ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF")
+  ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF)
+  ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+
+<br/>
+
+<h1 align="left"> 📊 &nbsp;Git Stats</h1>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderaky&layout=compact&hide=html&theme=radical" alt="coderaky" /> -->
+
+</br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=daraksedo&show_icons=true&theme=radical" alt="coderaky" />
+
+</br>
+<h1 align="center">
+✨ Where you can find me ✨
+
+<p align="center">
+  <br/>
+  <a href="www.linkedin.com/in/bhuwan-singh-samant-03b816234">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/daraksedo">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/daraksedo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](bhuwan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bhuwan-singh-samant-03b816234//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bhuwan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bhuwan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bhuwan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/bhuwan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/bhuwan)  
+  <br/>
+  <a href="https://www.facebook.com">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
+  </a>
+ 
+  <a href="https://www.instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+  <a href="https://twitter.com/BhuwanSinghSam2">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://open.spotify.com/user/316il4djvppzct6x4qyidzhptoci" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+</p>
+</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/daraksedo)](https://github.com/ryo-ma/github-profile-trophy)
+## Support me
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
+<p align="center">
+  <a href="https://www.patreon.com/coderaky" target="_blank">
+    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
+  </a>
+  <!-- <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
+      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/> -->
+  </a>
+  <a href="https://www.buymeacoffee.com/coderaky" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/daraksedo)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/daraksedo&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/daraksedo)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/daraksedo)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/daraksedo)  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
