@@ -9,7 +9,7 @@
 
 
 [![Twitter: Bhuwan](https://img.shields.io/twitter/follow/coderaky?style=social)](https://twitter.com/BhuwanSinghSam2)
-[![Linkedin: Bhuwan](https://img.shields.io/badge/-coderaky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderaky/)](www.linkedin.com/in/bhuwan-singh-samant-03b816234)
+[![Linkedin: Bhuwan](https://img.shields.io/badge/-coderaky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderaky/)](https://www.linkedin.com/in/bhuwan-singh-samant-03b816234/)
 [![GitHub Bhuwan](https://img.shields.io/github/followers/coderaky?label=follow&style=social)](https://github.com/daraksedo)
 
 
@@ -18,7 +18,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at Jain University Bangalore.
 - 📚 I’m currently learning  FULL Stack web development using Html,CSS,Js,React , NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development Roles. 
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/bhuwan-singh-samant-03b816234) [Gmail](mailto:bhuwansinghsamant706@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bhuwan-singh-samant-03b816234/) [Gmail](mailto:bhuwansinghsamant706@gmail.com)
 
 **<a href="http://coderaky.com" target="_blank">`coderaky.com`</a>**
 </br>
