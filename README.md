@@ -108,10 +108,10 @@ I created these images, feel free to use them.
   <a href="https://www.patreon.com/coderaky" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
   </a>
-  <!-- <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
+  <!-- <a href="https://www.paypal.com" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/> -->
   </a>
-  <a href="https://www.buymeacoffee.com/coderaky" target="_blank">
+  <a href="https://www.buymeacoffee.com" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
