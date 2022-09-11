@@ -82,7 +82,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=daraksedo&show_icons=true&theme=radical" alt="coderaky" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=daaraksedo&show_icons=true&theme=radical" alt="coderaky" />
 
 </br>
 <h1 align="center">
