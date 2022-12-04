@@ -78,11 +78,11 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br/>
 
 <h1 align="left"> 📊 &nbsp;Git Stats</h1>
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daarak Sedo&layout=compact&hide=html&theme=radical"  /> -->
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daarak-Sedo&layout=compact&hide=html&theme=radical"  /> -->
 
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=daaraksedo&show_icons=true&theme=radical" alt="coderaky" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Daarak-Sedo&show_icons=true&theme=radical" alt="coderaky" />
 
 </br>
 <h1 align="center">
